@@ -27,5 +27,5 @@ Install project with npm
 
 ## Feedback
 
-If you have any feedback, please reach out to us at bhuvanhupta2001@gmail
+If you have any feedback, please reach out to us at bhuvangupta2001@gmail
 
